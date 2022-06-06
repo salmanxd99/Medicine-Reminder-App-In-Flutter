@@ -20,7 +20,7 @@ class MedicineApp extends StatelessWidget {
     return MaterialApp(
       theme: ThemeData(
           fontFamily: "Popins",
-          primaryColor: Color.fromRGBO(7, 190, 200, 1),
+          primaryColor: Color.fromRGBO(20, 7, 200, 1.0),
           textTheme: TextTheme(
               headline1: ThemeData.light().textTheme.headline1.copyWith(
                     fontWeight: FontWeight.w700,
